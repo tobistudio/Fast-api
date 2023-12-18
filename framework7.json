@@ -1,0 +1,27 @@
+{
+  "cwd": "C:\\Users\\Doug\\Desktop\\Gender",
+  "type": [
+    "web",
+    "pwa",
+    "capacitor"
+  ],
+  "name": "BioReveal",
+  "pkg": "com.cwdgservices.bioreveal",
+  "framework": "vue",
+  "template": "single-view",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
